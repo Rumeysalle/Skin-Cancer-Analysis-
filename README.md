@@ -164,11 +164,6 @@ pip install torch torchvision numpy pandas opencv-python scikit-image scikit-lea
 4. **Eğitim ve değerlendirme:**
    Notebook hücrelerini sırasıyla çalıştırarak ITA hesaplama, baseline model eğitimi, Grad-CAM disparite analizi ve ISLT fine-tuning adımlarını gerçekleştirin.
 
----
-
-## Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ---
 
